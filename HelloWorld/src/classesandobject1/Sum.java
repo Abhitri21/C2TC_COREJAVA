@@ -12,7 +12,7 @@ public class Sum {
         return (x + y + z);
     }
   
-    // Overloaded sum(). This sum takes two double parameters
+    
     public double sum(double x, double y)
     {
         return (x + y);
